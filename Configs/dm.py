@@ -1,5 +1,5 @@
 # fileName: Configs/dm.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import os
 
@@ -48,4 +48,4 @@ class Config(object):
     PDF_THUMBNAIL = "./thumbnail.jpeg"
 
 
-#                                                                             Telegram: @nabilanavab
+
