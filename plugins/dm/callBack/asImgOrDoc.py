@@ -1,5 +1,5 @@
 # fileName : plugins/dm/callBack/asImgOrDoc.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 from pyrogram import filters
 from pyrogram import Client as ILovePDF
@@ -288,4 +288,4 @@ async def _KBTPM(bot, callbackQuery):
     except Exception:
         pass
 
-#                                                                                             Telegram: @nabilanavab
+

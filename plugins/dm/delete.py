@@ -21,4 +21,3 @@ async def _cancelI2P(bot, message):
     except Exception:
         await message.reply_text("`No Queue founded..`😲", quote=True)
 
-#                                                                                  Telegram: @nabilanavab

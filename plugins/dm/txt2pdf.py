@@ -1,5 +1,5 @@
 # fileName : Plugins/dm/txt2pdf.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import os
 from fpdf import FPDF
@@ -31,8 +31,8 @@ button=InlineKeyboardMarkup(
         [
             [
                 InlineKeyboardButton(
-                    "😉 Create your Own 😉",
-                    url="https://github.com/nabilanavab/ilovepdf"
+                    "😉  Join Our Group  😉",
+                    url="https://t.me/RG_bots"
                 )
             ]
        ]
@@ -246,4 +246,5 @@ async def _pgSize(bot, callbackQuery):
         except Exception:
             pass
 
-#                                                                                  Telegram: @nabilanavab
+
+

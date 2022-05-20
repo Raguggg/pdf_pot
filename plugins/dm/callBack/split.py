@@ -1,5 +1,5 @@
 # fileName : plugins/dm/callBack/split.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import time
 import shutil
@@ -570,4 +570,4 @@ async def _KsplitS(bot, callbackQuery):
         except Exception:
             pass
 
-#                                                                                                                                    Telegram: @nabilanavab
+

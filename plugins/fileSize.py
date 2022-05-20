@@ -1,5 +1,5 @@
 # fileName : plugins/fileSize.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021
 
 #--------------->
 #--------> SIZE FORMATER (TO HUMAN READABLE FORM)
@@ -21,4 +21,3 @@ e.g:
     1253656678 => '1.17GB'
 """
 
-#                                                                                  Telegram: @nabilanavab

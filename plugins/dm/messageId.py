@@ -1,5 +1,5 @@
 # fileName : Plugins/dm/messageId.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 Ragu
 
 from pyrogram import filters
 from pyrogram import Client as ILovePDF
@@ -16,4 +16,5 @@ async def _cancelI2P(bot, message):
     except Exception:
         pass
 
-#                                                                                  Telegram: @nabilanavab
+
+

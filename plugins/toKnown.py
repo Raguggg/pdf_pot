@@ -64,5 +64,3 @@ async def toKnown(callbackQuery, number_of_pages):
         )
     except Exception as e:
         print(f"plugins/toKnown: {e}")
-
-#                                                                                  Telegram: @nabilanavab

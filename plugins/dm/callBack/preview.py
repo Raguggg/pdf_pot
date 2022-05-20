@@ -1,5 +1,5 @@
 # fileName : plugins/dm/callBack/preview.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import os
 import fitz
@@ -171,4 +171,4 @@ async def _preview(bot, callbackQuery):
         except Exception:
             pass
 
-#                                                                                  Telegram: @nabilanavab
+

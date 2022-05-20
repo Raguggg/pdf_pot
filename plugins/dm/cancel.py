@@ -26,8 +26,8 @@ button=InlineKeyboardMarkup(
         [
             [
                 InlineKeyboardButton(
-                    "😉 Create your Own 😉",
-                    url="https://github.com/nabilanavab/ilovepdf"
+                    "😉 Join Our Group 😉",
+                    url="https://t.me/RG_bots"
                 )
             ]
        ]
@@ -60,4 +60,4 @@ async def cancelP2I(bot, message):
         except Exception:
             pass
 
-#                                                                                  Telegram: @nabilanavab
+

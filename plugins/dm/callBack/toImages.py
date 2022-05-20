@@ -1,5 +1,5 @@
 # fileName : plugins/dm/callBack/toImages.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import os
 import fitz
@@ -938,4 +938,5 @@ async def _KEXTRACT(bot, callbackQuery):
         except Exception:
             pass
 
-#                                                                                  Telegram: @nabilanavab
+
+

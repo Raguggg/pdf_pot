@@ -1,5 +1,5 @@
 # fileName : plugins/dm/Callback/pdfMetaData.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import fitz
 import time
@@ -185,4 +185,4 @@ async def _KpdfInfo(bot, callbackQuery):
     except Exception:
         pass
 
-#                                                                                              Telegram: @nabilanavab
+

@@ -1,5 +1,5 @@
 # fileName : plugins/dm/callBack/text.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import time
 import fitz
@@ -352,4 +352,4 @@ async def _J(bot, callbackQuery):
         except Exception:
             pass
 
-#                                                                                  Telegram: @nabilanavab
+

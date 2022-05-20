@@ -1,5 +1,5 @@
 # fileName : plugins/dm/generate.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 Ragu
 
 import os
 import shutil
@@ -26,14 +26,14 @@ ADMINS=Config.ADMINS
 
 UCantUse = "For Some Reason You Can't Use This Bot 🛑"
 
-feedbackMsg = "[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)"
+feedbackMsg = "[Write a feedback 📋](https://t.me/RG_bots)"
 
 button=InlineKeyboardMarkup(
         [
             [
                 InlineKeyboardButton(
-                    "😉 Create your Own 😉",
-                    url="https://github.com/nabilanavab/ilovepdf"
+                    "😉  Join Our Group  😉",
+                    url="https://t.me/RG_bots"
                 )
             ]
        ]
@@ -115,4 +115,5 @@ async def generate(bot, message):
         except Exception:
             pass
 
-#                                                                                  Telegram: @nabilanavab
+
+

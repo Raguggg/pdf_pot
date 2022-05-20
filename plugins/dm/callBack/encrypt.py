@@ -1,5 +1,5 @@
 # fileName : plugins/dm/callBack/encrypt.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import os
 import time
@@ -174,4 +174,4 @@ async def _encrypt(bot, callbackQuery):
         except Exception:
             pass
 
-#                                                                                  Telegram: @nabilanavab
+

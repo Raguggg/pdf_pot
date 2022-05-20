@@ -1,5 +1,5 @@
 # fileName : plugins/dm/callBack/decrypt.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import os
 import time
@@ -135,4 +135,3 @@ async def _decrypt(bot, callbackQuery):
         except Exception:
             pass
 
-#                                                                                  Telegram: @nabilanavab

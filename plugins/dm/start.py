@@ -1,5 +1,5 @@
 # fileName : plugins/dm/start.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 from pdf import invite_link
 from pyrogram import filters
@@ -20,10 +20,8 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-Update Channel: @ilovepdf_bot 💎
-
-[Source Code 🏆](https://github.com/nabilanavab/ilovepdf)
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)"""
+Creator 
+       RAGU G"""
 
 UCantUse = "For Some Reason You Can't Use This Bot 🛑"
 
@@ -35,21 +33,17 @@ This Means You Need To Join The Below Mentioned Channel for Using Me!
 
 hit on "retry ♻️" after joining.. 😅"""
 
-aboutDev = """Owned By: @nabilanavab
-Update Channel: @ilovepdf_bot
-
-Now its easy to create your Own nabilanavab/ilovepdf bot
-
-[Source Code 🏆](https://github.com/nabilanavab/ilovepdf)
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)"""
+aboutDev = """Owned By: @ragu2k
+Update group: @RG_bots
+"""
 
 exploreBotEdit = """
 [WORKING IN PROGRESS
 
-Join @ilovepdf_bot bot Updates 💎](https://t.me/ilovepdf_bot)
+
 """
 
-foolRefresh = "വിളച്ചിലെടുക്കല്ലേ കേട്ടോ 😐"
+foolRefresh = " 😐"
 
 #--------------->
 #--------> config vars
@@ -121,7 +115,7 @@ async def start(bot, message):
                 [
                     [
                         InlineKeyboardButton(
-                            "🌟 Source Code 🌟",
+                            "🌟 Join Our Group  🌟",
                             callback_data="strtDevEdt"
                         ),
                         InlineKeyboardButton(
@@ -160,8 +154,8 @@ async def _strtDevEdt(bot, callbackQuery):
                 [
                     [
                         InlineKeyboardButton(
-                            "💎 Source Codes 💎",
-                            url = "https://github.com/nabilanavab/ilovepdf"
+                            "💎  Join Our Group 💎",
+                            url = "https://t.me/RG_bots"
                         ),
                         InlineKeyboardButton(
                             "Home 🏡",
@@ -220,7 +214,7 @@ async def _back(bot, callbackQuery):
                 [
                     [
                         InlineKeyboardButton(
-                            "🌟 Source Code 🌟",
+                            "🌟  Join Our Group  🌟",
                             callback_data = "strtDevEdt"
                         ),
                         InlineKeyboardButton(
@@ -260,7 +254,7 @@ async def _refresh(bot, callbackQuery):
                 [
                     [
                         InlineKeyboardButton(
-                            "🌟 Source Code 🌟",
+                            "🌟  Join Our Group 🌟",
                             callback_data = "strtDevEdt"
                         ),
                         InlineKeyboardButton(
@@ -300,4 +294,4 @@ async def _close(bot, callbackQuery):
     except Exception as e:
         print(e)
 
-#                                                                                  Telegram: @nabilanavab
+

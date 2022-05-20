@@ -83,9 +83,9 @@ errorEditMsg = """Something went wrong..😐
 
 ERROR: `{}`
 
-For bot updates join @ilovepdf_bot"""
+For bot updates join @RG_bots"""
 
-feedbackMsg = "[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)"
+feedbackMsg = "[Our Bot list](https://t.me/RG_bots/66)"
 
 forceSubMsg = """Wait [{}](tg://user?id={})..!!
 
@@ -99,8 +99,8 @@ button=InlineKeyboardMarkup(
         [
             [
                 InlineKeyboardButton(
-                    "😉 Create your Own 😉",
-                    url="https://github.com/nabilanavab/ilovepdf"
+                    "😉Join our Group 😉",
+                    url="https://t.me/RG_bots"
                 )
             ]
        ]
@@ -210,7 +210,7 @@ async def documents(bot, message):
                         [
                             InlineKeyboardButton(
                                 "💎 Create 2Gb Support Bot 💎",
-                                url="https://github.com/nabilanavab/ilovepdf"
+                                url="@ragu2k"
                             )
                         ]
                     ]
@@ -381,4 +381,5 @@ async def documents(bot, message):
     except Exception as e:
         print("plugins/dm/document : ", e)
 
-#                                                                                  Telegram: @nabilanavab
+
+

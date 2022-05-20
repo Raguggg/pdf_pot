@@ -1,5 +1,5 @@
 # fileName : plugins/dm/callBack/zipAndTar.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import os
 import time
@@ -564,4 +564,5 @@ async def _KZIPandTAR(bot, callbackQuery):
         except Exception:
             pass
 
-#                                                                                  Telegram: @nabilanavab
+
+

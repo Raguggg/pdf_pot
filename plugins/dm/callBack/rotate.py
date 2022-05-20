@@ -1,5 +1,5 @@
 # fileName : plugins/dm/callBack/rotate.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import os
 import time
@@ -188,4 +188,4 @@ async def _rot360(bot, callbackQuery):
     except Exception:
         pass
 
-#                                                                                  Telegram: @nabilanavab
+

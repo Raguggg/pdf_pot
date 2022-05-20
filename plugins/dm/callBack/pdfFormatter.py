@@ -1,5 +1,5 @@
 # fileName : plugins/dm/callBack/pdfFormatter.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import os
 import time
@@ -164,11 +164,11 @@ async def _formatter(bot, callbackQuery):
 #      |      |  |         |  |  |  |   |                     
 #      |  A4  |  |    B    |  |B`|  |___|                     
 #      |      |  |_________|  |__|    B``                     
-#      |______|                                @ nabilanavab  
+#      |______|                                
 #                                                             
 #   ° 1st resize image B (large side with rt. A4 sheet)       
 #   ° height & width must be in same ratio(pillow)            
 #   ° get values for B(x⁰, y⁰, x¹, y¹) on A4                  
 #   ° Insert B to A4 (here pymuPdf) fitz                      
 #                                                             
-#                                                                                  Telegram: @nabilanavab
+

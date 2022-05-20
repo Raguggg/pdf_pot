@@ -1,5 +1,5 @@
 # fileName : plugins/progress.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 import time, math
 from pyrogram.types import Message
@@ -63,4 +63,3 @@ def TimeFormatter(milliseconds: int) -> str:
         ((str(milliseconds) + "ms, ") if milliseconds else "")
     return tmp[:-2]
 
-#                                                                                  Telegram: @nabilanavab

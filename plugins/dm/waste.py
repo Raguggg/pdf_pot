@@ -1,5 +1,5 @@
 # fileName : plugins/dm/waste.py
-# copyright ©️ 2021 nabilanavab
+# copyright ©️ 2021 
 
 from pyrogram import filters
 from Configs.dm import Config
@@ -26,8 +26,8 @@ button=InlineKeyboardMarkup(
         [
             [
                 InlineKeyboardButton(
-                    "😉 Create your Own 😉",
-                    url="https://github.com/nabilanavab/ilovepdf"
+                    "😉  Join Our Group  😉",
+                    url="https://t.me/RG_bots"
                 )
             ]
        ]
@@ -54,4 +54,4 @@ async def spam(bot, message):
     except Exception:
         pass
 
-#                                                                                  Telegram: @nabilanavab
+
